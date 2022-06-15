@@ -1,0 +1,10 @@
+Spotiapp:
+client_id: 4ff5e598e9f84cb3aca80df4c951c1c3
+client_secret: 1602678ccec0402c8c8d2c2ec87c5120
+token: BQBf66zAD6kX_TIRZxjLvwO1jRf2DkCxJoZ646r56jn7OCUVZR3IY5ALSeXAibZ2WK_lvi-ct5B7ZunhdlZnu8XS0qNWfpVMd5e69pnU9dJLkzUet-_a 
+"token_type": "Bearer",
+    "expires_in": 3600
+
+"access_token": "BQAhpqVnXXq3KpbATdz9i01RRM0D9BBc4OzR9eGeV2Y2DzUjiJsw8hOry-JR-CYLVoWfzysN4fGqBpFusE4A9J2cVrjhwqwLKR1wDWFenwlYIwxIE1U7",
+    "token_type": "Bearer",
+    "expires_in": 3600
